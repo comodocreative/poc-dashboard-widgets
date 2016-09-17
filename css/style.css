@@ -1,0 +1,18 @@
+body {
+    background: #E3E3E3;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.container {
+    background: #fff;
+    box-shadow: 0 2px 8px #999;
+    margin: 4% auto;
+    padding: 2%;
+    text-align: center;
+    width: 90%;
+}
+
+svg {
+	margin: 0 1em;
+}
